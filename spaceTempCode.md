@@ -68,7 +68,7 @@ copyright: reserved
 参考：
 【初めてのArduino】6.サーミスタ｜ハンズオンで学ぶ初心者向け入門コース
 
-https://start-electronics.com/electronics/first-arduino/thermistor/
+https://x.gd/748Po
 
 このサーミスタを使うために、私は中学数学からやり直すこととなる…
 
@@ -82,7 +82,9 @@ https://start-electronics.com/electronics/first-arduino/thermistor/
 
 IoTピザ窯、または巨大災害レジリエンスで娘に怒られたこと
 
-https://qiita.com/nanbuwks/items/0bb92acf7f7ee075a6b5#%E3%82%B5%E3%83%BC%E3%83%9F%E3%82%B9%E3%82%BF
+https://x.gd/VtqaU
+
+![alt text](s-654382588-ab23680d-b889-4b85-89bd-3a2f6227f0a2.jpg)
 
 上記記事のサーミスタの項にあるが、サーミスタが出力するのは抵抗値でありそこから計算により温度を求めなくてはいけない。
 その公式は分数となるため中学数学からやり直す事となったのである。
